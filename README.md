@@ -1,2 +1,2 @@
-# test
+test
 setting up git on ubuntu
