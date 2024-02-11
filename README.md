@@ -1,3 +1,3 @@
 test
 setting up git on ubuntu
-hi i am himanshu
+pushed this text and python file from my ubuntu
